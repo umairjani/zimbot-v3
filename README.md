@@ -59,7 +59,7 @@ rm -r session.json
 
 npm start
 
-echo scan the qr code and enjoy bot
+echo scan the qr code and enjoy bot v 3
 
 ```
 
@@ -68,7 +68,7 @@ echo scan the qr code and enjoy bot
 
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
 
-## MY PERSONAL CHAT
+## MY P.ERSONAL CHAT
 
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
 
